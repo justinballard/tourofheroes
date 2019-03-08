@@ -1,2 +1,2 @@
 # tourofheroes
-Angular-based Tour of Heroes app
+Angular-based Tour of Heroes tutorial app
